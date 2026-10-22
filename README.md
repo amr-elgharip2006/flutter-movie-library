@@ -1,5 +1,9 @@
 # Movie Library App — Section 3 (Mobile Development)
 
+## ▶️ Live demo (run in the browser)
+**https://amr-elgharip2006.github.io/flutter-movie-library/**
+
+
 **Student:** Amr Ahmed El-Ghareeb
 
 A Flutter app that shows a collection of movies with search and a list/grid toggle.
